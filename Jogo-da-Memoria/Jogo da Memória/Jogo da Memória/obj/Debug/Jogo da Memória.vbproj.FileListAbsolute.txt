@@ -1,0 +1,24 @@
+C:\Users\Explosive_TiTaN\source\repos\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.exe.config
+C:\Users\Explosive_TiTaN\source\repos\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.exe
+C:\Users\Explosive_TiTaN\source\repos\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.pdb
+C:\Users\Explosive_TiTaN\source\repos\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.xml
+C:\Users\Explosive_TiTaN\source\repos\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.vbprojAssemblyReference.cache
+C:\Users\Explosive_TiTaN\source\repos\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo_da_Memória.Form1.resources
+C:\Users\Explosive_TiTaN\source\repos\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo_da_Memória.Resources.resources
+C:\Users\Explosive_TiTaN\source\repos\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.vbproj.GenerateResource.cache
+C:\Users\Explosive_TiTaN\source\repos\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.vbproj.CoreCompileInputs.cache
+C:\Users\Explosive_TiTaN\source\repos\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.exe
+C:\Users\Explosive_TiTaN\source\repos\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.xml
+C:\Users\Explosive_TiTaN\source\repos\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.pdb
+C:\Users\Alunos\Desktop\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.vbproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.exe
+C:\Users\Alunos\Desktop\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.xml
+C:\Users\Alunos\Desktop\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.pdb
+C:\Users\Alunos\Desktop\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.exe.config
+C:\Users\Alunos\Desktop\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.exe
+C:\Users\Alunos\Desktop\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.pdb
+C:\Users\Alunos\Desktop\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\bin\Debug\Jogo da Memória.xml
+C:\Users\Alunos\Desktop\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo_da_Memória.Form1.resources
+C:\Users\Alunos\Desktop\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo_da_Memória.Resources.resources
+C:\Users\Alunos\Desktop\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.vbproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\Jogo-da-Memoria\Jogo da Memória\Jogo da Memória\obj\Debug\Jogo da Memória.vbproj.CoreCompileInputs.cache
